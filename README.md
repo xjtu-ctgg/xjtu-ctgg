@@ -24,7 +24,7 @@ I am currently a **Master's student in Software Engineering** at **Xi'an Jiaoton
 With a solid background in **Algorithms (ICPC/CCPC Gold & Silver Medalist)**, I am now focusing on **Artificial Intelligence**. My goal is to combine robust algorithmic thinking with modern Deep Learning techniques.
 
 * 🔭 **Research Interest:** Cross-View Geo-Localization, LLM Fine-tuning, and RAG Agents.
-* 🌱 **Currently Learning:** Large Model Architectures, **LangChain/Multi-Agent Systems**, and Distributed Training.
+* 🌱 **Currently Learning:** Large Model Architectures, **LangChain/Multi-Agent Systems**.
 * 💡 **Core Strength:** Strong Mathematical logic & High-performance coding skills.
 
 ---
@@ -77,15 +77,17 @@ With a solid background in **Algorithms (ICPC/CCPC Gold & Silver Medalist)**, I 
 ### 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-ctgg&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=xjtu-ctgg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-</div>
+  <img src="https://img.shields.io/github/languages/top/xjtu-ctgg/LUCL?style=for-the-badge&color=3776AB&label=Top%20Language" alt="Top Language" />
+  
+  <img src="https://img.shields.io/github/languages/code-size/xjtu-ctgg/LUCL?style=for-the-badge&color=00599C" alt="Code Size" />
 
-<br>
+  <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xjtu-ctgg&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+  <img src="https://img.shields.io/github/commit-activity/y/xjtu-ctgg/LUCL?style=for-the-badge&color=2ecc71" alt="Commit Activity" />
+  
+  <img src="https://img.shields.io/github/followers/xjtu-ctgg?style=for-the-badge&color=f1c40f&logo=github" alt="Followers" />
+
 </div>
 
 ---
