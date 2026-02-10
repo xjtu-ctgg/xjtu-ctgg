@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=Hello%20World&fontSize=70&animation=fadeIn&fontAlignY=35&desc=I'%20m%20Li%20Weiyi&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Li%20Weiyi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Algorithm%20Engineer%20%7C%20LLM%20Researcher&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
-<h1 align="center">Hi there, I'm Li Weiyi (Onlyone) 👋</h1>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91F7&center=true&vCenter=true&width=435&lines=Master's+Student+@+XJTU;Competitive+Programmer+(ICPC%2FCCPC);Focusing+on+LLMs+%26+NLP" alt="Typing SVG" />
+  </a>
+</h3>
 
 <div align="center">
-
-👀 **Master's Student @ Xi'an Jiaotong University (XJTU)** | 💻 **Algorithm Engineer** | 🤖 **LLM Enthusiast**
 
 [![](https://img.shields.io/badge/Email-onlyone__two%40163.com-red?style=flat-square&logo=gmail)](mailto:onlyone_two@163.com)
 [![](https://img.shields.io/badge/Location-Xi'an%2C%20China-blue?style=flat-square&logo=google-maps)]()
@@ -15,16 +17,27 @@
 
 ---
 
-### 🧐 About Me
+### 👨‍💻 About Me
 
-[cite_start]I am currently a **Master's student in Software Engineering** at **Xi'an Jiaotong University**.
+I am currently a **Master's student in Software Engineering** at **Xi'an Jiaotong University (XJTU)**.
 
-[cite_start]With a strong background in **Competitive Programming (ICPC/CCPC)**[cite: 13, 14], I have developed a solid foundation in data structures, algorithms, and logical reasoning. I am now pivoting my focus towards **Artificial Intelligence**, specifically in the fields of **Large Language Models (LLMs)**, **Natural Language Processing (NLP)**, and **High-Performance Computing**.
+Driven by a passion for solving complex problems, I have built a rigorous foundation in algorithms through **Competitive Programming**. I am now pivoting my focus towards **Artificial Intelligence**, aiming to contribute to the development of **Large Language Models (LLMs)** and **High-Performance Computing**.
 
-- 🔭 I’m currently working on **LLM Fine-tuning & Optimization**.
-- 🌱 I’m currently learning **Deep Learning Systems** and **Distributed Training**.
-- [cite_start]💡 I'm interested in **Math, Computational Geometry, and Algorithm Optimization**[cite: 46].
-- [cite_start]🏆 **Awards:** National Scholarship, China College Student "Star of Self-Improvement"[cite: 10, 11].
+* 🔭 **Research Interest:** LLM Fine-tuning, Uncertainty Learning, and Cross-view Geo-localization.
+* 🌱 **Currently Learning:** Deep Learning Systems (SysML) & Distributed Training.
+* 💡 **Core Strength:** Solid Math & Data Structure skills derived from ACM/ICPC training.
+
+---
+
+### 📝 Selected Research & Projects
+
+*Since you are aiming for LLM/Dev jobs, highlighting your research code is crucial.*
+
+> **[LUCL: LLM-guided Uncertainty Contrastive Learning](https://github.com/Onlyone/LUCL)**
+> * *Role: Author / Developer*
+> * Proposed an LLM-guided uncertainty contrastive learning method for enhancing Cross-View Geo-Localization.
+> * Utilized **Attention Feature Refiner** to improve model robustness.
+> * *(Currently Under Review)*
 
 ---
 
@@ -32,45 +45,41 @@
 
 <div align="center">
 
-| **Core Languages** | **AI & Data Science** | **Tools & Platforms** |
+| **Algorithm & Core** | **AI & Deep Learning** | **Infrastructure** |
 |:---:|:---:|:---:|
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) <br> ![SQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br> ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) <br> ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 </div>
 
 ---
 
-### 🏆 Selected Honors & Awards
+### 🏆 ICPC / CCPC Honors
 
-*Proving my problem-solving skills through competitions.*
+*Top-tier algorithmic competition awards.*
 
-| Year | Contest / Award | Achievement |
+| Year | Contest | Award |
 | :--- | :--- | :--- |
-| 2024 | **CCPC** National Invitational Contest (Zhengzhou) | [cite_start]🥇 **Gold Medal (Rank 5)** [cite: 13] |
-| 2025 | **ICPC** Asia Regional Contest (Xi'an) | [cite_start]🥈 **Silver Medal** [cite: 14] |
-| 2023 | **ICPC** Asia Regional Contest (Shenyang & Xi'an) | [cite_start]🥈 **Silver Medal** [cite: 15] |
-| 2024 | **Blue Bridge Cup** National Finals (C/C++ A) | [cite_start]🏆 **1st Prize (National Rank 8)** [cite: 17] |
-| 2023 | **GPLT** (Group Programming Ladder Tournament) | [cite_start]🥇 **National Gold Award** [cite: 20] |
-| 2023 | **Baidu Astar** Programming Contest | [cite_start]🥈 **National Silver Award** [cite: 21] |
-
-> [cite_start]*Formerly: ICPC Training Manager & Problem Setter for Nowcoder/Blue Bridge Cup.* 
+| **2024** | **CCPC** National Invitational Contest (Zhengzhou) | 🥇 **Gold Medal** |
+| **2025** | **ICPC** Asia Regional Contest (Xi'an) | 🥈 **Silver Medal** |
+| **2023** | **ICPC** Asia Regional Contest (Shenyang & Xi'an) | 🥈 **Silver Medal** |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Onlyone&show_icons=true&theme=radical&count_private=true" height="180px" alt="Onlyone's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onlyone&layout=compact&theme=radical&hide=html,css" height="180px" alt="Top Languages" />
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Onlyone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onlyone&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,tex,makefile" height="160" alt="languages" />
 </div>
 
+<br>
+
 <div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onlyone&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onlyone&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
 </div>
 
 ---
 
 <div align="center">
-  <p><i>"Stay hungry, stay foolish. Coding for a better future."</i></p>
+  <sub><i>"Stay hungry, stay foolish. Coding for a better future."</i></sub>
 </div>
