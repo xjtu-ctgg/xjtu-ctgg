@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F4C81&center=true&vCenter=true&width=435&lines=Master's+Student+@+XJTU;Competitive+Programmer+(ICPC%2FCCPC);Building+RAG+Systems+%26+AI+Agents" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F4C81&center=true&vCenter=true&width=435&lines=Master's+Student+@+XJTU;Competitive+Programmer+(ICPC%2FCCPC);Researching+LLM+%26+Geo-Localization" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -21,10 +21,10 @@
 
 I am currently a **Master's student in Software Engineering** at **Xi'an Jiaotong University (XJTU)**.
 
-With a solid background in **Algorithms (ICPC/CCPC Gold & Silver Medalist)**, I am now focusing on **Large Language Models (LLMs)**. I am passionate about how to combine structured knowledge with Generative AI.
+With a solid background in **Algorithms (ICPC/CCPC Gold & Silver Medalist)**, I am now focusing on **Artificial Intelligence**. My goal is to combine robust algorithmic thinking with modern Deep Learning techniques.
 
-* 🔭 **Research Interest:** LLM Fine-tuning, **RAG (Retrieval-Augmented Generation)**, and **AI Agents**.
-* 🌱 **Currently Learning:** LLM Architectures, LangChain, and Multi-Agent Systems.
+* 🔭 **Research Interest:** **Cross-View Geo-Localization**, LLM Fine-tuning, and RAG Agents.
+* 🌱 **Currently Learning:** Large Model Architectures, **LangChain/Multi-Agent Systems**, and Distributed Training.
 * 💡 **Core Strength:** Strong Mathematical logic & High-performance coding skills.
 
 ---
@@ -35,7 +35,7 @@ With a solid background in **Algorithms (ICPC/CCPC Gold & Silver Medalist)**, I 
 
 | **Project / Task** | **Tech Stack** | **Status** |
 | :--- | :--- | :--- |
-| **PaddleOCR + ERNIE (RAG/Agent Application)** | `PaddlePaddle` `OCR` `ERNIE Bot` | 🔥 **In Progress** |
+| **PaddleOCR + ERNIE (RAG Agent)** | `PaddlePaddle` `OCR` `ERNIE Bot` | 🔥 **In Progress** |
 | *Building a document understanding agent that combines OCR extraction with LLM reasoning.* | | |
 
 ---
@@ -44,7 +44,7 @@ With a solid background in **Algorithms (ICPC/CCPC Gold & Silver Medalist)**, I 
 
 > **[LUCL: LLM-guided Uncertainty Contrastive Learning](https://github.com/xjtu-ctgg/LUCL)**
 > * *Role: Author / Developer*
-> * Proposed an LLM-guided uncertainty contrastive learning method for enhancing Cross-View Geo-Localization.
+> * Proposed an LLM-guided uncertainty contrastive learning method for enhancing **Cross-View Geo-Localization**.
 > * Utilized **Attention Feature Refiner** to improve model robustness.
 > * *(Currently Under Review)*
 
@@ -77,8 +77,8 @@ With a solid background in **Algorithms (ICPC/CCPC Gold & Silver Medalist)**, I 
 ### 📊 GitHub Analytics
 
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=xjtu-ctgg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-ctgg&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,tex,makefile" height="160" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-ctgg&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xjtu-ctgg&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats" />
 </div>
 
 <br>
