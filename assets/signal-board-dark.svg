@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-labelledby="title desc">
+  <title id="title">Weiyi Li — research and engineering signal board</title>
+  <desc id="desc">Four visual cards summarize cross-view research, efficient LLM inference, agent systems, and competitive programming, followed by embodied navigation, reinforcement learning, and algorithm problem generation as future directions.</desc>
+  <defs>
+    <linearGradient id="next" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#102a32"/>
+      <stop offset="0.52" stop-color="#25213e"/>
+      <stop offset="1" stop-color="#332818"/>
+    </linearGradient>
+    <pattern id="microgrid" width="18" height="18" patternUnits="userSpaceOnUse">
+      <path d="M18 0H0V18" fill="none" stroke="#b6c4d8" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="560" rx="28" fill="#0b1220"/>
+  <rect width="1000" height="560" rx="28" fill="url(#microgrid)"/>
+
+  <!-- Research -->
+  <g font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <rect x="20" y="20" width="470" height="210" rx="22" fill="#111b2d" stroke="#27344a"/>
+    <rect x="20" y="20" width="5" height="210" rx="3" fill="#6ed7e8"/>
+    <text x="48" y="52" fill="#6ed7e8" font-size="12" font-weight="750" letter-spacing="2.2">RESEARCH · LUCL</text>
+    <text x="48" y="91" fill="#f4f7fb" font-size="27" font-weight="720">Cross-view learning</text>
+    <text x="48" y="119" fill="#9eabc0" font-size="16">uncertainty · contrastive · multimodal</text>
+    <rect x="48" y="151" width="132" height="32" rx="16" fill="#14323b"/>
+    <text x="66" y="172" fill="#78d5df" font-size="13" font-weight="700">3× FIRST AUTHOR</text>
+    <text x="195" y="172" fill="#77869e" font-size="13" font-weight="650">TIP · AAAI · AAS</text>
+
+    <rect x="367" y="50" width="68" height="58" rx="10" fill="#142635" stroke="#315464"/>
+    <path d="M376 65l16 12 13-10 20 15" fill="none" stroke="#72acb7" stroke-width="2"/>
+    <circle cx="394" cy="81" r="5" fill="#6ed7e8"/>
+    <rect x="393" y="124" width="68" height="58" rx="10" fill="#221e39" stroke="#534b7a"/>
+    <path d="M402 141h50M402 151h34M402 161h42" stroke="#aa98ec" stroke-width="2" stroke-linecap="round"/>
+    <path d="M400 108C407 118 418 124 427 126" fill="none" stroke="#a994ff" stroke-width="2.5" stroke-dasharray="4 5"/>
+  </g>
+
+  <!-- Inference -->
+  <g font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <rect x="510" y="20" width="470" height="210" rx="22" fill="#111b2d" stroke="#27344a"/>
+    <rect x="510" y="20" width="5" height="210" rx="3" fill="#a994ff"/>
+    <text x="538" y="52" fill="#a994ff" font-size="12" font-weight="750" letter-spacing="2.2">SYSTEMS · INFERENCE</text>
+    <text x="538" y="91" fill="#f4f7fb" font-size="27" font-weight="720">Faster tokens, less wait</text>
+    <text x="538" y="119" fill="#9eabc0" font-size="16">decoding · KV cache · serving</text>
+    <rect x="538" y="151" width="95" height="32" rx="16" fill="#25213f"/>
+    <text x="560" y="172" fill="#b4a4ff" font-size="13" font-weight="700">TTFT ↓</text>
+    <rect x="641" y="151" width="124" height="32" rx="16" fill="#162f2b"/>
+    <text x="660" y="172" fill="#6ed0b2" font-size="13" font-weight="700">THROUGHPUT ↑</text>
+
+    <path d="M830 177V65M830 177H950" stroke="#344157" stroke-width="1.5"/>
+    <rect x="846" y="129" width="14" height="48" rx="4" fill="#3a345d"/>
+    <rect x="871" y="108" width="14" height="69" rx="4" fill="#574c82"/>
+    <rect x="896" y="82" width="14" height="95" rx="4" fill="#796aa9"/>
+    <rect x="921" y="56" width="14" height="121" rx="4" fill="#a994ff"/>
+    <path d="M842 99C870 93 893 65 938 52" fill="none" stroke="#6ed7e8" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="938" cy="52" r="4.5" fill="#6ed7e8"/>
+  </g>
+
+  <!-- Agents -->
+  <g font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <rect x="20" y="245" width="470" height="210" rx="22" fill="#111b2d" stroke="#27344a"/>
+    <rect x="20" y="245" width="5" height="210" rx="3" fill="#7cb7f0"/>
+    <text x="48" y="277" fill="#7cb7f0" font-size="12" font-weight="750" letter-spacing="2.2">AGENTS · LLM WIKI</text>
+    <text x="48" y="316" fill="#f4f7fb" font-size="27" font-weight="720">Knowledge → action</text>
+    <text x="48" y="344" fill="#9eabc0" font-size="16">retrieval · tools · safety</text>
+    <rect x="48" y="376" width="88" height="32" rx="16" fill="#172a40"/>
+    <text x="68" y="397" fill="#89b8e5" font-size="13" font-weight="700">HYBRID RAG</text>
+    <text x="166" y="397" fill="#77869e" font-size="13" font-weight="650">multi-format · structured calls</text>
+
+    <rect x="348" y="285" width="44" height="54" rx="8" fill="#172a40" stroke="#355373"/>
+    <path d="M358 300h24M358 309h18M358 318h21" stroke="#8db3da" stroke-width="2" stroke-linecap="round"/>
+    <rect x="348" y="360" width="44" height="54" rx="8" fill="#172a40" stroke="#355373"/>
+    <path d="M358 375h24M358 384h18M358 393h21" stroke="#8db3da" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="430" cy="350" r="28" fill="#497eb6"/>
+    <path d="M418 350l8 8 17-19" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M393 312h25c8 0 12 8 12 16M393 387h25c8 0 12-8 12-16" fill="none" stroke="#5d7896" stroke-width="2" stroke-dasharray="4 4"/>
+  </g>
+
+  <!-- Algorithms -->
+  <g font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <rect x="510" y="245" width="470" height="210" rx="22" fill="#111b2d" stroke="#27344a"/>
+    <rect x="510" y="245" width="5" height="210" rx="3" fill="#f6c177"/>
+    <text x="538" y="277" fill="#f6c177" font-size="12" font-weight="750" letter-spacing="2.2">ALGORITHMIC CORE · ICPC / CCPC</text>
+    <text x="538" y="316" fill="#f4f7fb" font-size="27" font-weight="720">Think fast. Prove it.</text>
+    <text x="538" y="344" fill="#9eabc0" font-size="16">modeling · correctness · performance</text>
+    <rect x="538" y="376" width="96" height="32" rx="16" fill="#342818"/>
+    <text x="561" y="397" fill="#f6c177" font-size="13" font-weight="750">2× GOLD</text>
+    <rect x="644" y="376" width="104" height="32" rx="16" fill="#242e3e"/>
+    <text x="666" y="397" fill="#aeb8c8" font-size="13" font-weight="750">3× SILVER</text>
+
+    <path d="M872 286h48v22c0 34-24 57-48 65-24-8-48-31-48-65v-22h48z" fill="#312719" stroke="#c8954d" stroke-width="2"/>
+    <path d="M851 286v-12h42v12M856 326l10 10 22-26" fill="none" stroke="#f6c177" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="872" cy="392" r="18" fill="#c58b3d"/>
+    <text x="866" y="399" fill="#fff" font-size="20" font-weight="800">1</text>
+  </g>
+
+  <!-- Next vector -->
+  <g font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <rect x="20" y="475" width="960" height="65" rx="20" fill="url(#next)" stroke="#314057"/>
+    <text x="48" y="502" fill="#8090a8" font-size="11" font-weight="750" letter-spacing="2">NEXT VECTOR</text>
+    <text x="48" y="526" fill="#e3eaf5" font-size="16" font-weight="670">Embodied navigation</text>
+    <circle cx="273" cy="511" r="4" fill="#6ed7e8"/>
+    <path d="M277 511H385" stroke="#52627b" stroke-width="2" stroke-dasharray="5 6"/>
+    <text x="402" y="516" fill="#e3eaf5" font-size="16" font-weight="670">Reinforcement learning</text>
+    <circle cx="641" cy="511" r="4" fill="#a994ff"/>
+    <path d="M645 511H739" stroke="#52627b" stroke-width="2" stroke-dasharray="5 6"/>
+    <text x="756" y="516" fill="#e3eaf5" font-size="16" font-weight="670">Problem generation</text>
+  </g>
+</svg>
