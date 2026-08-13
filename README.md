@@ -1,15 +1,13 @@
-<h1 align="center">Li Weiyi</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C6FF,100:0072FF&amp;height=260&amp;section=header&amp;text=Li%20Weiyi&amp;fontSize=76&amp;fontColor=FFFFFF&amp;fontAlignY=35&amp;desc=Foundation%20Models%20%C2%B7%20AI%20Infra%20%C2%B7%20Efficient%20Inference&amp;descSize=20&amp;descAlignY=58&amp;animation=fadeIn" width="100%" alt="Li Weiyi — Foundation Models, AI Infra, and Efficient Inference">
+</div>
 
-<p align="center">
-  <b>李维逸 · M.S. @ XJTU · AI Algorithm Intern @ Huawei</b>
-</p>
-
-<p align="center">
+<h3 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=23&amp;duration=2600&amp;pause=900&amp;color=7CB7F0&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=48&amp;lines=Foundation+Models+%C2%B7+Pre-training+%C2%B7+Post-training;Multimodal+VLM+%C2%B7+Reinforcement+Learning;AI+Infra+%C2%B7+Efficient+LLM+Inference;ICPC+%2F+CCPC+Medalist+%C2%B7+Algorithm+Problem+Setter">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=23&amp;duration=2600&amp;pause=900&amp;color=3B6EA8&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=48&amp;lines=Foundation+Models+%C2%B7+Pre-training+%C2%B7+Post-training;Multimodal+VLM+%C2%B7+Reinforcement+Learning;AI+Infra+%C2%B7+Efficient+LLM+Inference;ICPC+%2F+CCPC+Medalist+%C2%B7+Algorithm+Problem+Setter" alt="Typing animation showing Li Weiyi's focus areas">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2600&amp;pause=900&amp;color=7CB7F0&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=48&amp;lines=M.S.+Student+%40+Xi%27an+Jiaotong+University;AI+Algorithm+Intern+%40+Huawei;Pre-training+%C2%B7+Post-training+%C2%B7+Multimodal+VLM;Reinforcement+Learning+%C2%B7+Embodied+Intelligence;AI+Infra+%C2%B7+Efficient+LLM+Inference;ICPC+%2F+CCPC+Gold+%26+Silver+Medalist">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2600&amp;pause=900&amp;color=0F4C81&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=48&amp;lines=M.S.+Student+%40+Xi%27an+Jiaotong+University;AI+Algorithm+Intern+%40+Huawei;Pre-training+%C2%B7+Post-training+%C2%B7+Multimodal+VLM;Reinforcement+Learning+%C2%B7+Embodied+Intelligence;AI+Infra+%C2%B7+Efficient+LLM+Inference;ICPC+%2F+CCPC+Gold+%26+Silver+Medalist" alt="Typing animation showing Li Weiyi's education, experience, research interests, and honors">
   </picture>
-</p>
+</h3>
 
 <p align="center">
   <a href="#about">About</a> ·
