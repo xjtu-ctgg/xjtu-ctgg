@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Weiyi Li — from pixels to tokens to trajectories</title>
+  <desc id="desc">Foundation models, LLM inference, and algorithmic systems. A path from cross-view geo-localization through efficient inference to embodied navigation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="0.58" stop-color="#f1f5fa"/>
+      <stop offset="1" stop-color="#e9eef7"/>
+    </linearGradient>
+    <linearGradient id="route" gradientUnits="userSpaceOnUse" x1="858" y1="88" x2="858" y2="270">
+      <stop offset="0" stop-color="#168295"/>
+      <stop offset="0.5" stop-color="#6d4fd3"/>
+      <stop offset="1" stop-color="#b36c0c"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#50617b" stroke-opacity="0.065" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="150" cy="40" r="190" fill="#168295" fill-opacity="0.045"/>
+  <circle cx="1085" cy="336" r="210" fill="#6d4fd3" fill-opacity="0.055"/>
+
+  <g font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="68" y="66" fill="#5d6d86" font-size="15" font-weight="680" letter-spacing="4">WEIYI LI</text>
+    <text x="68" y="142" fill="#152238" font-size="54" font-weight="740" letter-spacing="-1.8">From pixels to tokens</text>
+    <text x="68" y="205" fill="#152238" font-size="54" font-weight="740" letter-spacing="-1.8">to trajectories.</text>
+    <text x="70" y="256" fill="#4f6079" font-size="21" font-weight="470">Foundation models · LLM inference · algorithmic systems</text>
+    <text x="70" y="309" fill="#71819a" font-size="15" font-weight="590" letter-spacing="0.6">M.S. @ XJTU   ·   AI ALGORITHM INTERN @ HUAWEI</text>
+  </g>
+
+  <g font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <rect x="802" y="38" width="342" height="284" rx="25" fill="#ffffff" fill-opacity="0.72" stroke="#a7b4c8" stroke-opacity="0.35"/>
+    <path d="M858 88 C858 124 858 142 858 178 C858 214 858 232 858 270" fill="none" stroke="url(#route)" stroke-width="3" stroke-linecap="round"/>
+
+    <circle cx="858" cy="88" r="7" fill="#168295"/>
+    <circle cx="858" cy="179" r="9" fill="#6d4fd3"/>
+    <circle cx="858" cy="270" r="7" fill="#b36c0c"/>
+
+    <text x="892" y="77" fill="#7890a1" font-size="11" font-weight="720" letter-spacing="2.3">PAST</text>
+    <text x="892" y="101" fill="#25334a" font-size="16" font-weight="640">Cross-view geo-localization</text>
+
+    <text x="892" y="168" fill="#6d4fd3" font-size="11" font-weight="780" letter-spacing="2.3">NOW</text>
+    <text x="892" y="192" fill="#152238" font-size="16" font-weight="700">LLM inference &amp; tool-use</text>
+
+    <text x="892" y="259" fill="#a4620b" font-size="11" font-weight="720" letter-spacing="2.3">NEXT</text>
+    <text x="892" y="283" fill="#25334a" font-size="16" font-weight="640">Embodied navigation</text>
+  </g>
+</svg>

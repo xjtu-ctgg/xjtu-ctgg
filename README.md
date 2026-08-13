@@ -1,100 +1,77 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=Li%20Weiyi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Algorithm%20Engineer%20%7C%20LLM%20Researcher&descAlignY=60&descAlign=50" width="100%"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/hero-dark-mobile.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/hero-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <img src="./assets/hero-light.svg" width="100%" alt="Weiyi Li — from pixels to tokens to trajectories; foundation models, LLM inference, and algorithmic systems">
+</picture>
 
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F4C81&center=true&vCenter=true&width=435&lines=Master's+Student+@+XJTU;Competitive+Programmer+(ICPC%2FCCPC);Building+Next-Gen+AI+Agents" alt="Typing SVG" />
-  </a>
-</h3>
+<p align="center">
+  <a href="#selected-work">Selected work</a> ·
+  <a href="#research-trajectory">Research trajectory</a> ·
+  <a href="#competitive-programming">Competitive programming</a> ·
+  <a href="https://orcid.org/0009-0008-8462-2494">ORCID</a>
+</p>
 
-<div align="center">
+## Hello, I'm Weiyi
 
-[![](https://img.shields.io/badge/Email-onlyone__two%40163.com-red?style=flat-square&logo=gmail)](mailto:onlyone_two@163.com)
-[![](https://img.shields.io/badge/Location-Xi'an%2C%20China-blue?style=flat-square&logo=google-maps)]()
+I'm **Weiyi Li (李维逸)**, an M.S. student in Software Engineering at **Xi'an Jiaotong University** and an **AI Algorithm Intern at Huawei**. I bring a competitive-programming foundation to model and systems work across efficient LLM inference, tool-using agents, and multimodal learning.
 
-</div>
+My research started with cross-view geo-localization. I am now moving toward efficient foundation-model inference and, next, embodied navigation. The thread connecting them is simple: build systems that can **perceive precisely, reason reliably, and run efficiently**.
 
----
+## Current focus
 
-### 👨‍💻 **About Me**
+- **Efficient LLM inference** — decoding and cache efficiency, latency/throughput evaluation, and high-throughput serving.
+- **Foundation models & agents** — model training and tuning, RAG, function calling, planner–executor systems, and safe tool use.
+- **Embodied intelligence · next** — robot navigation, path planning, reinforcement learning, and algorithmic task generation.
 
-I am currently a **Master's student in Software Engineering** at **Xi'an Jiaotong University (XJTU)**.
+## Selected work
 
-With a solid background in **Algorithms (ICPC/CCPC Gold & Silver Medalist)**, I am now focusing on **Artificial Intelligence**. My goal is to combine robust algorithmic thinking with modern Deep Learning techniques.
+### [LUCL · LLM-guided Uncertainty Contrastive Learning](https://github.com/xjtu-ctgg/LUCL)
 
-* 🔭 **Research Interest:** Cross-View Geo-Localization, LLM Fine-tuning, and RAG Agents.
-* 🌱 **Currently Learning:** Large Model Architectures, **LangChain/Multi-Agent Systems**.
-* 💡 **Core Strength:** Strong Mathematical logic & High-performance coding skills.
+First-author research on uncertainty-aware cross-view geo-localization with LLM guidance and attention refinement. The manuscript is under review; code release is planned after the review process.
 
----
+### LLM inference optimization · industry work
 
-### 🚀 **Current Focus: Open Source**
+Working on multi-turn LLM inference with an emphasis on decoding efficiency, prefix/KV-cache reuse, prompt compression, and rigorous tool-use evaluation.
 
-*Participating in the **Baidu PaddlePaddle Sail Plan (飞桨启航计划)**.*
+### LLM Wiki · RAG agent
 
-| **Project** | **Tech Stack** | **Status** |
+Built a multi-format knowledge assistant with hybrid retrieval, reranking, multi-turn query rewriting, structured tool calls, and safety guardrails for document-centric workflows.
+
+## Research trajectory
+
+| Phase | Focus | What I care about |
 | :--- | :--- | :--- |
-| **PaddleOCR + ERNIE (RAG Agent)** | `PaddlePaddle` `OCR` `ERNIE Bot` | 🔥 **In Progress** |
-| *Building a document understanding agent combining OCR & LLM.* | | |
+| **Past** | Cross-view geo-localization | Robust retrieval across viewpoints, uncertainty, and multimodal guidance |
+| **Now** | Foundation models & inference | Efficient decoding, cache reuse, reliable tool use, and evaluation |
+| **Next** | Embodied navigation | Robot planning, reinforcement learning, and decision-making in the physical world |
+
+I have three first-author manuscripts in review or revision across **IEEE TIP**, **AAAI**, and **Acta Automatica Sinica**, centered on cross-view geo-localization and multimodal learning.
+
+## Competitive programming
+
+Competitive programming is where I learned to turn mathematical ideas into fast, correct implementations under pressure.
+
+| Year | Contest | Result |
+| :---: | :--- | :---: |
+| **2026** | ICPC Shaanxi Provincial Programming Contest | **Gold** |
+| **2024** | CCPC National Invitational Contest · Zhengzhou | **Gold** |
+| **2025** | ICPC Asia Regional Contest · Xi'an | **Silver** |
+| **2023** | ICPC Asia Regional Contest · Shenyang | **Silver** |
+| **2023** | CCPC · Guilin | **Silver** |
+
+I also served as an ACM training-team lead and have authored or reviewed problems for university contests, Nowcoder contests, and the Lanqiao Cup.
+
+## Toolbox
+
+**Languages** · `C++` `Python` `Java`<br>
+**Modeling** · `PyTorch` `Hugging Face` `LLM fine-tuning` `RAG`<br>
+**Inference** · `Speculative decoding` `KV cache` `Prefix cache` `Function calling`<br>
+**Systems** · `Linux` `Docker` `Git`
 
 ---
 
-### 📝 **Selected Research**
-
-> **[LUCL: LLM-guided Uncertainty Contrastive Learning](https://github.com/xjtu-ctgg/LUCL)**
-> * *Role: Author / Developer*
-> * Proposed an LLM-guided uncertainty contrastive learning method for enhancing Cross-View Geo-Localization.
-> * Utilized **Attention Feature Refiner** to improve model robustness.
-> * *(Currently Under Review)*
-
----
-
-### 🛠️ **Tech Stack**
-
-<div align="center">
-
-| **Algorithm & Core** | **LLM & AI Agent** | **Infrastructure** |
-|:---:|:---:|:---:|
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) <br> ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) <br> ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br> ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-
-</div>
-
----
-
-### 🏆 **ICPC / CCPC Honors**
-
-*Top-tier algorithmic competition awards.*
-
-| Year | Contest | Award |
-| :--- | :--- | :--- |
-| **2024** | **CCPC** National Invitational Contest (Zhengzhou) | 🥇 **Gold Medal** |
-| **2025** | **ICPC** Asia Regional Contest (Xi'an) | 🥈 **Silver Medal** |
-| **2023** | **ICPC** Asia Regional Contest (Shenyang & Xi'an) | 🥈 **Silver Medal** |
-
----
-
-### 📊 **GitHub Analytics**
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=xjtu-ctgg&show_icons=true&theme=nightowl&hide_border=true&count_private=true" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjtu-ctgg&layout=compact&theme=nightowl&hide_border=true&langs_count=6" width="400" />
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xjtu-ctgg&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="800" />
-</div>
-
----
-
-<div align="center">
-  <sub><i>"Stay hungry, stay foolish. Coding for a better future."</i></sub>
-</div>
+<p align="center">
+  Interested in efficient LLM serving, embodied navigation, and algorithmic problem design.<br>
+  <sub>Xi'an, China · <a href="https://orcid.org/0009-0008-8462-2494">ORCID</a></sub>
+</p>
