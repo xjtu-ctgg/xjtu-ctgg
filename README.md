@@ -1,9 +1,15 @@
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/hero-dark-mobile.svg">
-  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/hero-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img src="./assets/hero-light.svg" width="100%" alt="Weiyi Li — LLM algorithms and AI infrastructure; foundation models, multimodal learning, reinforcement learning, and efficient inference">
-</picture>
+<h1 align="center">Li Weiyi</h1>
+
+<p align="center">
+  <b>李维逸 · M.S. @ XJTU · AI Algorithm Intern @ Huawei</b>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=23&amp;duration=2600&amp;pause=900&amp;color=7CB7F0&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=48&amp;lines=Foundation+Models+%C2%B7+Pre-training+%C2%B7+Post-training;Multimodal+VLM+%C2%B7+Reinforcement+Learning;AI+Infra+%C2%B7+Efficient+LLM+Inference;ICPC+%2F+CCPC+Medalist+%C2%B7+Algorithm+Problem+Setter">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=23&amp;duration=2600&amp;pause=900&amp;color=3B6EA8&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=48&amp;lines=Foundation+Models+%C2%B7+Pre-training+%C2%B7+Post-training;Multimodal+VLM+%C2%B7+Reinforcement+Learning;AI+Infra+%C2%B7+Efficient+LLM+Inference;ICPC+%2F+CCPC+Medalist+%C2%B7+Algorithm+Problem+Setter" alt="Typing animation showing Li Weiyi's focus areas">
+  </picture>
+</p>
 
 <p align="center">
   <a href="#about">About</a> ·
@@ -64,14 +70,19 @@
 
 <a id="competitions"></a>
 
-## 🏆 Competitive programming
+### 🏆 **ICPC / CCPC Honors**
 
-- 🥇 **2026 ICPC Shaanxi Provincial Programming Contest** — Gold Medal
-- 🥇 **2024 CCPC National Invitational Contest · Zhengzhou** — Gold Medal
-- 🥈 **2025 ICPC Asia Regional Contest · Xi'an** — Silver Medal
-- 🥈 **2023 ICPC Asia Regional Contest · Shenyang** — Silver Medal
-- 🥈 **2023 CCPC · Guilin** — Silver Medal
-- 🏅 **Lanqiao Cup National Finals** — First Prize × 3 · **CCF Algorithm Capability Competition** — National Silver · **Baidu Star** — National Silver × 2
+*Top-tier algorithmic competition awards.*
+
+| **Year** | **Contest** | **Award** |
+| :---: | :--- | :---: |
+| **2026** | **ICPC** Shaanxi Provincial Programming Contest | 🥇 **Gold Medal** |
+| **2025** | **ICPC** Asia Regional Contest · Xi'an | 🥈 **Silver Medal** |
+| **2024** | **CCPC** National Invitational Contest · Zhengzhou | 🥇 **Gold Medal** |
+| **2023** | **ICPC** Asia Regional Contest · Shenyang | 🥈 **Silver Medal** |
+| **2023** | **CCPC** National Contest · Guilin | 🥈 **Silver Medal** |
+
+**More honors** · Lanqiao Cup National Final — First Prize × 3 · CCF Algorithm Capability Competition National Final — Silver Award · Baidu Star National Final — Silver Award × 2
 
 `Former ACM training-team lead` · `University / Nowcoder problem setter` · `Lanqiao Cup problem reviewer`
 
