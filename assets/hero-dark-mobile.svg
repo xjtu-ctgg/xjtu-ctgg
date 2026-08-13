@@ -1,42 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="680" viewBox="0 0 700 680" role="img" aria-labelledby="title desc">
-  <title id="title">Weiyi Li — from pixels to tokens to trajectories</title>
-  <desc id="desc">Foundation models, LLM inference, and algorithmic systems. A path from cross-view geo-localization through efficient inference to embodied navigation.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="650" viewBox="0 0 700 650" role="img" aria-labelledby="title desc">
+  <title id="title">Weiyi Li — LLM algorithms and AI infrastructure</title>
+  <desc id="desc">Mobile profile banner with focus areas in foundation models, multimodal learning, reinforcement learning, and AI infrastructure.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#09101f"/><stop offset="0.55" stop-color="#10192d"/><stop offset="1" stop-color="#17213a"/>
-    </linearGradient>
-    <linearGradient id="route" gradientUnits="userSpaceOnUse" x1="102" y1="423" x2="102" y2="580">
-      <stop offset="0" stop-color="#6ed7e8"/><stop offset="0.5" stop-color="#a994ff"/><stop offset="1" stop-color="#f6c177"/>
-    </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0L0 0 0 32" fill="none" stroke="#8b9bb4" stroke-opacity="0.055"/>
-    </pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#09101f"/><stop offset=".55" stop-color="#10192d"/><stop offset="1" stop-color="#17213a"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8b9bb4" stroke-opacity=".055"/></pattern>
   </defs>
-  <rect width="700" height="680" rx="30" fill="url(#bg)"/>
-  <rect width="700" height="680" rx="30" fill="url(#grid)"/>
-  <circle cx="70" cy="30" r="190" fill="#6ed7e8" fill-opacity="0.035"/>
-  <circle cx="640" cy="650" r="210" fill="#a994ff" fill-opacity="0.045"/>
+  <rect width="700" height="650" rx="30" fill="url(#bg)"/><rect width="700" height="650" rx="30" fill="url(#grid)"/>
+  <circle cx="70" cy="28" r="190" fill="#6ed7e8" fill-opacity=".035"/><circle cx="640" cy="630" r="210" fill="#a994ff" fill-opacity=".045"/>
+  <g font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <text x="54" y="70" fill="#9fb0ca" font-size="18" font-weight="650" letter-spacing="4">WEIYI LI · 李维逸</text>
+    <text x="52" y="146" fill="#f4f7fb" font-size="51" font-weight="720" letter-spacing="-1.6">LLM Algorithms</text>
+    <text x="52" y="207" fill="#f4f7fb" font-size="51" font-weight="720" letter-spacing="-1.6">× AI Infrastructure</text>
+    <text x="54" y="255" fill="#b9c5d8" font-size="20">Foundation models · multimodal intelligence</text>
+    <text x="54" y="288" fill="#b9c5d8" font-size="20">· efficient inference</text>
+    <text x="54" y="333" fill="#8190aa" font-size="15" font-weight="560">M.S. @ XJTU · AI ALGORITHM INTERN @ HUAWEI</text>
 
-  <g font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
-    <text x="54" y="72" fill="#9fb0ca" font-size="18" font-weight="650" letter-spacing="4">WEIYI LI</text>
-    <text x="52" y="147" fill="#f4f7fb" font-size="52" font-weight="720" letter-spacing="-1.6">From pixels to tokens</text>
-    <text x="52" y="208" fill="#f4f7fb" font-size="52" font-weight="720" letter-spacing="-1.6">to trajectories.</text>
-    <text x="54" y="258" fill="#b9c5d8" font-size="21">Foundation models · LLM inference</text>
-    <text x="54" y="290" fill="#b9c5d8" font-size="21">· algorithmic systems</text>
-    <text x="54" y="337" fill="#8190aa" font-size="15" font-weight="560" letter-spacing="0.5">M.S. @ XJTU · AI ALGORITHM INTERN @ HUAWEI</text>
-  </g>
-
-  <g font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
-    <rect x="46" y="376" width="608" height="252" rx="25" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.09"/>
-    <path d="M102 423V580" fill="none" stroke="url(#route)" stroke-width="4" stroke-linecap="round"/>
-    <circle cx="102" cy="423" r="8" fill="#6ed7e8"/>
-    <circle cx="102" cy="502" r="10" fill="#a994ff"/>
-    <circle cx="102" cy="580" r="8" fill="#f6c177"/>
-    <text x="142" y="414" fill="#70819d" font-size="12" font-weight="700" letter-spacing="2.3">PAST</text>
-    <text x="142" y="439" fill="#dbe4f1" font-size="19" font-weight="620">Cross-view geo-localization</text>
-    <text x="142" y="493" fill="#a994ff" font-size="12" font-weight="760" letter-spacing="2.3">NOW</text>
-    <text x="142" y="518" fill="#f4f7fb" font-size="19" font-weight="680">LLM inference &amp; tool-use</text>
-    <text x="142" y="571" fill="#8f7c57" font-size="12" font-weight="700" letter-spacing="2.3">NEXT</text>
-    <text x="142" y="596" fill="#dbe4f1" font-size="19" font-weight="620">Embodied navigation</text>
+    <rect x="46" y="372" width="608" height="230" rx="25" fill="#fff" fill-opacity=".035" stroke="#fff" stroke-opacity=".09"/>
+    <text x="75" y="406" fill="#8090aa" font-size="11" font-weight="740" letter-spacing="2.4">FOCUS AREAS</text>
+    <rect x="74" y="425" width="258" height="66" rx="17" fill="#14323b" stroke="#315965"/><circle cx="98" cy="448" r="7" fill="#6ed7e8"/><text x="114" y="452" fill="#78d5df" font-size="13" font-weight="750">MODEL ALGORITHMS</text><text x="96" y="476" fill="#e1e8f3" font-size="14" font-weight="640">Pre · Post-training</text>
+    <rect x="348" y="425" width="258" height="66" rx="17" fill="#172a40" stroke="#355373"/><circle cx="372" cy="448" r="7" fill="#7cb7f0"/><text x="388" y="452" fill="#89b8e5" font-size="13" font-weight="750">MULTIMODAL · VLM</text><text x="370" y="476" fill="#e1e8f3" font-size="14" font-weight="640">Vision · Language</text>
+    <rect x="74" y="507" width="258" height="66" rx="17" fill="#25213f" stroke="#514878"/><circle cx="98" cy="530" r="7" fill="#a994ff"/><text x="114" y="534" fill="#b4a4ff" font-size="13" font-weight="750">RL · AGENTS</text><text x="96" y="558" fill="#e1e8f3" font-size="14" font-weight="640">Reason · Align</text>
+    <rect x="348" y="507" width="258" height="66" rx="17" fill="#342818" stroke="#665033"/><circle cx="372" cy="530" r="7" fill="#f6c177"/><text x="388" y="534" fill="#f6c177" font-size="13" font-weight="750">AI INFRA</text><text x="370" y="558" fill="#e1e8f3" font-size="14" font-weight="640">Inference · Serving</text>
   </g>
 </svg>
