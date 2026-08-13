@@ -38,7 +38,7 @@
 
 | Publication | Role | Status |
 | :--- | :---: | :---: |
-| **IEEE Transactions on Image Processing** | First author | Major Revision Submitted |
+| **IEEE Transactions on Image Processing** | First author | Under Review |
 | **AAAI Conference on Artificial Intelligence** | First author | Under Review |
 | **Acta Automatica Sinica** | First author | Under Review |
 
